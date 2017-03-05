@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## 快乐比鸡
+#一、游戏简介：
+比鸡是流行于江浙一带的民间扑克牌玩法，游戏2到5人玩，每位玩家发9张牌，每3张牌一组，搭成牌型由小到大的三墩牌相互比较大小，牌型最大的玩家赢得本墩游戏金币，其他玩家根据牌型大小排序需要付出不同数额的游戏金币。
 
-You can use the [editor on GitHub](https://github.com/MintExp/MiniGame_Support/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
+#二、牌型介绍：
 - List
+1. 三条：三张同一数字的牌。若遇相同牌型，则比三张的数字大小，如：AAA，333、666等，其中AAA最大。
+2. 同花顺：同一花色中的三张连续牌（即顺子）。若别家也有同花顺时，比顺子大小，如顺子也相同，则比花色（黑红梅方）。
+3. 同花：同一花色中任意三张牌。若遇相同则先比这副牌中最大的一张，如又相同再比第二张、依此类推。如牌型全部相同则比花色（黑红梅方）。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MintExp/MiniGame_Support/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#三、游戏流程：
